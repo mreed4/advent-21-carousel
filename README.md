@@ -1,0 +1,1 @@
+This is a basic image carousel. I remember seeing these 15 to 20 years ago and not being able to read the code! I added some keyboard navigation, and tried to move thigns to individual and sensical functions.
